@@ -18,6 +18,6 @@ after_success:
 deploy:
   provider: gae
   keyfile: nodal-thunder-337305-e2c78f588105.json
-  project: Jinxooh/docker-react-test
+  project: nodal-thunder-337305
   on:
     all_branches: true
