@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nodal-thunder-337305",
+  "private_key_id": "0587904030f513ce898191695b9b8de18b973d3d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6BRFSKpYbKq5/\njelKmholnpjeXOWi2ce2a32L3CV0StONNA4U/60tPvpAp+0PAB+mw2uv5lM9yQDU\noM5y9ERDCDxE8dUw+/Fs8SfcIkp7jmHzWAN1HZqzPBXJoIdhG09lWpRhar2TojN4\nCd/EMv7rqyxKVnVkN+n8/JFim4ZoYVhz/F5bFIUfuJSLSTt+I+vL2Ygxo+QoUzT0\nl1P1pG5Q7/kl7UQtrk/Dq/Xtdl61/JHorTo4ihtQijLaYQ4QlfhNsJ55k6IxMFS0\nIFOAwgSCgwWqKEHLRA+r5TO3mNjPM1FB6eXnDHFa5c9zDhqgTo5sk5vFpuINWg52\noEVyJQLDAgMBAAECggEAA6gE1/jGpuBhugJykvOmJEDSoBBIYo6QSol2AsaVeoyG\novsNHyQ1ZbMcB82lLwshaXg5iNATU8lnJEbIOAyNaO85AWFAKlcmvthF9cw7auP4\nuz1AItBYUZc9QGTQ3xDtMGtQM6f9nkYXvTodyq/2lcWcDcFW9lzTqGmDJrfdiPX+\n7mKLsLMAAGmF/+ngyRud9lDCotwKyFvIe6/WLc6+cU/ayrX9d89zQgDhyRoM/D1T\nAIivF1vwDLO/1e8LRy5jgLn3AfTN/Ld1iTz/ROTqjdgVoMOsN+nzG9p94nJPCeEB\nfXMj9OM0cgv9TQHtSRSHKMet69SM+EwudbKjd+Hi2QKBgQDs4D0oMme/6o3R+QRv\n4dkivZbF81i5CVtdi0EdM7urUj6hOUvKLGbe/ys7dnHrjJU5oEHG5yofN1S40A5m\nPH6T7THxClihizcRgY2aWExe2bKhoUeP6ZhMxhjBc/PFM7kLyz8+uU5rHuJTbl8S\nvKEatjyIDyKuKNwFAryIhdvsSwKBgQDJCbtrs531QIXc8vFruZ/cpOv0oZdSIBTJ\n1mCKoHipBCHFpP+B7X0Esx5/T+7NysdiP2gdBsdG/h82EhjqOfmDOUjoNWdUvaql\nmNBtmGAHWcpePDkqyvLvnk0k78ZNCWaW/FIz6JWmEHiZ3KCICXlFNslGWsYnu9rL\nLJdsy/RIaQKBgFA6ftw/fj5VPiWQ9vzB/N40Yn23NySs06IySSKP5A9Zsta+Zjoa\nodkDiewA6QLDwcMb0UuB/hVGk05pQYdFFAYcP18Jhw1n7oXiYEiXgX5as5Lk4i0P\nDENskPPsxvLS2ujwtQIUl0fW1Qc3CcJ52wMGGChpH/Dm6+ZSj/KZi+xTAoGBAIFn\nk02TU6TPQJtlggMOfBlhy0QvU6EYZ2k4ZfI1sxVQRJDdUV6HyQZiacoXYKb01Pyn\nxdORTmqjHuIGKiVy5eoS0Jwv6/B/Gb34LImvIHj60ilwaHfkJRYadpvE/4cM+w1L\nI3qoRtObHJYljuuh9X6Y8lwoCA8Be6d2b44nhnmpAoGBALX15yPXyA1a6vwN1vo7\n8pZjm5+c3Y7ChB+fQ+gJg0Aix3DmjhTKmsuMK2j8or3XNz2/F4rNoWN/IL1JPi3E\nKPnRVvZffSPETlv6wT0Nsq/vNcclf5/hHJD0ltk0QPr9ThkZm9wBzGNpxAcOdR2o\nN8MFds9KaTJ4N/Hmy4xhqwgf\n-----END PRIVATE KEY-----\n",
+  "client_email": "travis-gae@nodal-thunder-337305.iam.gserviceaccount.com",
+  "client_id": "100977885876947258351",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travis-gae%40nodal-thunder-337305.iam.gserviceaccount.com"
+}
